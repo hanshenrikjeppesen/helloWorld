@@ -2,4 +2,4 @@
 
 # Test script
 read -p "What is your name" name
-echo "hello $name"
+echo hello $name
